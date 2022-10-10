@@ -1,0 +1,1 @@
+onClick={()=>{axios.post("http://127.0.0.1:8000/test/",{data:0}).then(data=>console.log(data.data))}}

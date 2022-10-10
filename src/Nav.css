@@ -1,0 +1,12 @@
+.container{
+    font-size:x-large;
+    font-style:oblique;
+    background-color: darkblue;
+    color:white;
+    border-style: solid;
+  border-color: crimson;
+    padding: 2%;
+    margin: 1%;
+    border-radius: 5px;
+   
+}
